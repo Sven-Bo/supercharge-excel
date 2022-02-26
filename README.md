@@ -12,9 +12,13 @@ In this video, I will show you how to do more with Excel by combining it with Py
 
 ## Requirements
 ```
+kaleido==0.2.1
+openpyxl==3.0.9
 pandas==1.3.5
 plotly==4.14.3
-openpyxl==3.0.9
+psutil==5.9.0
+pyecharts==1.9.0
+requests
 xlwings==0.25.3
 ```
 
