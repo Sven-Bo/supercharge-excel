@@ -7,7 +7,7 @@ There’s a lot of pain points in Excel that make it a tool that’s cumbersome 
 In this video, I will show you how to do more with Excel by combining it with Python. You will see how Python can analyze data, generate beautiful interactive charts and automate tasks in Excel.
 
 ## Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi//Vmpop2WbdYw/0.jpg)](https://youtu.be//Vmpop2WbdYw)
 
 
 ## Requirements
